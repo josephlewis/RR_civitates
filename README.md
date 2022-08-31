@@ -1,7 +1,9 @@
 # RR_civitates
 civitates of Roman Britain shapefile
 
-Based on Millett (1990, Fig. 16) and digitised from image provided by James Gerrard (as shown in Gerrard, 2013)
+After Millett (1990, Fig. 16) and digitised from image provided by James Gerrard (as shown in Gerrard, 2013)
+
+Outline of Britain using the Roman Era coastline as provided by the Ancient World Mapping center (AWMC). http://awmc.unc.edu/wordpress/map-files/
 
 Created: 2022-08-21
 
