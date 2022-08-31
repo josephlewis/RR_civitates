@@ -8,6 +8,14 @@ Created: 2022-08-21
 
 Author: Joseph Lewis
 
+MetaData: 
+
+ID - Unique Identification for each civitas
+DATE - Date that the data was created
+AUTHOR - Creator of the data
+LINK - URL Link to where data is housed
+NAME - Name of the civitas following Millett (1990, Fig. 16)
+
 ## Released under CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 
