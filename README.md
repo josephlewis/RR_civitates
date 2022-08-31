@@ -1,6 +1,8 @@
 # RR_civitates
 civitates of Roman Britain shapefile
 
+Based on Millett (1990, Fig. 16) and digitised from image provided by James Gerrard (as shown in Gerrard, 2013)
+
 Created: 2022-08-21
 
 Author: Joseph Lewis
@@ -15,9 +17,6 @@ Adapt — remix, transform, and build upon the material for any purpose, even co
 Under the following terms: 
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-Based on Millett (1990, Fig. 16) and digitised from image provided by James Gerrard (as shown in Gerrard, 2013)
-
-References:
-
+## References:
 Millett, M. (1990). The romanization of Britain: an essay in archaeological interpretation. Cambridge [England] ; New York: Cambridge University Press.
 Gerrard, J. (2013). The Ruin of Roman Britain: An Archaeological Perspective (1st ed.). Cambridge University Press. https://doi.org/10.1017/CBO9781139839129
