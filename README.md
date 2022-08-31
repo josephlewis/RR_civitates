@@ -1,5 +1,4 @@
-# RR_civitates
-civitates of Roman Britain shapefile
+## civitates of Roman Britain shapefile
 
 After Millett (1990, Fig. 16) and digitised from image provided by James Gerrard (as shown in Gerrard, 2013)
 
