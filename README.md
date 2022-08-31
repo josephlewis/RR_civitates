@@ -1,4 +1,4 @@
-## civitates of Roman Britain shapefile
+# civitates of Roman Britain shapefile
 
 After Millett (1990, Fig. 16) and digitised from image provided by James Gerrard (as shown in Gerrard, 2013)
 
@@ -8,12 +8,16 @@ Created: 2022-08-21
 
 Author: Joseph Lewis
 
-MetaData: 
+##MetaData: 
 
-ID - Unique Identification for each civitas\n
+ID - Unique Identification for each civitas
+
 DATE - Date that the data was created
+
 AUTHOR - Creator of the data
+
 LINK - URL Link to where data is housed
+
 NAME - Name of the civitas following Millett (1990, Fig. 16)
 
 ## Released under CC BY 3.0
